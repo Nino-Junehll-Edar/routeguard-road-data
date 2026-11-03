@@ -1,0 +1,79 @@
+{
+  "boundaryHash": "a946dbe574ebfbe66c40bd389d424c086b7318af4f3e6b9e45c7fc944d0d7e56",
+  "boundaryId": "osm-relation-5154028",
+  "boundaryVersion": 1,
+  "buildId": "2026-11-02T21-21-26Z-f3a25d9dd3fa",
+  "generatedAt": "2026-11-03T01:43:55.756200+00:00",
+  "osmBaseTimestamp": "2026-11-02T21:21:26Z",
+  "schemaVersion": 1,
+  "source": "OpenStreetMap",
+  "sourcePbfSha256": "f3a25d9dd3fae92f02c1dc28115a12d86ff1b2bbaf51733413549ee130fce905",
+  "sourceUrl": "https://download.geofabrik.de/asia/philippines-latest.osm.pbf",
+  "tiles": {
+    "124.900,11.100,125.000,11.200": {
+      "bounds": {
+        "east": 125.0,
+        "north": 11.2,
+        "south": 11.1,
+        "west": 124.9
+      },
+      "byteSize": 149670,
+      "nodeCount": 754,
+      "sha256": "c5a2ffdff7e5d4572089b2522d846b8bc522c797d69e90c0f0b1c15fb033fedd",
+      "url": "builds/2026-11-02T21-21-26Z-f3a25d9dd3fa/tiles/124.900,11.100,125.000,11.200.json",
+      "wayCount": 773
+    },
+    "124.900,11.200,125.000,11.300": {
+      "bounds": {
+        "east": 125.0,
+        "north": 11.3,
+        "south": 11.2,
+        "west": 124.9
+      },
+      "byteSize": 2641371,
+      "nodeCount": 12168,
+      "sha256": "6e1157f6343ce4fd72c72fa3bc1afc3673be218f292a450ba4321b3308f3ceca",
+      "url": "builds/2026-11-02T21-21-26Z-f3a25d9dd3fa/tiles/124.900,11.200,125.000,11.300.json",
+      "wayCount": 12933
+    },
+    "124.900,11.300,125.000,11.400": {
+      "bounds": {
+        "east": 125.0,
+        "north": 11.4,
+        "south": 11.3,
+        "west": 124.9
+      },
+      "byteSize": 1034284,
+      "nodeCount": 5647,
+      "sha256": "d8d2f5b3a9cd317b4c97ab1822eae0fe0c5509a73b819fd1056c508b645e5a9c",
+      "url": "builds/2026-11-02T21-21-26Z-f3a25d9dd3fa/tiles/124.900,11.300,125.000,11.400.json",
+      "wayCount": 5992
+    },
+    "125.000,11.100,125.100,11.200": {
+      "bounds": {
+        "east": 125.1,
+        "north": 11.2,
+        "south": 11.1,
+        "west": 125.0
+      },
+      "byteSize": 352863,
+      "nodeCount": 1733,
+      "sha256": "1f619efa3c0205e7d6de78637095705b25c8cbee75f62b5d2715191404594675",
+      "url": "builds/2026-11-02T21-21-26Z-f3a25d9dd3fa/tiles/125.000,11.100,125.100,11.200.json",
+      "wayCount": 1809
+    },
+    "125.000,11.200,125.100,11.300": {
+      "bounds": {
+        "east": 125.1,
+        "north": 11.3,
+        "south": 11.2,
+        "west": 125.0
+      },
+      "byteSize": 1646455,
+      "nodeCount": 7249,
+      "sha256": "0a49a5a8f29e868f1b8af2472b10f7e84b375e8595a09f683c5d053efdd5019c",
+      "url": "builds/2026-11-02T21-21-26Z-f3a25d9dd3fa/tiles/125.000,11.200,125.100,11.300.json",
+      "wayCount": 7714
+    }
+  }
+}
